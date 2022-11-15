@@ -18,3 +18,10 @@
 
 
 
+## Estructura de una aplicación de c#
+* Extension .cs contiene código de c#
+* Cuando creamos un proyecto de c# se nos carga una archivo de configuracion que sería
+  * MiPrimeraApp.csproj
+* Un proyecto es un conjunto de archivos cuales pueden ser compilados en una sola cosa, esa sola cosa puede ser una aplicacione web, aplicación movil, o una librería,etc.
+* Una solución es un conjunto de proyectos, tipicamente los proyectos tienen una relación.
+* Es importante la reutilización de código.
